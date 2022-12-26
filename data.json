@@ -61,7 +61,7 @@
     ],
     "billing": [
       {
-        "action": "reader",
+        "action": "read",
         "type": "finance"
       },
       {
